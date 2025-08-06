@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-08-06 06:26:29",
+  "last_updated": "2025-08-06 06:34:16",
   "scan_count": 1,
   "total_items_tracked": 47,
   "total_items_scanned": 50,
@@ -15,16 +15,16 @@
           "quantity": 1
         }
       ],
-      "profit": -3462,
-      "profit_margin": -10.758903598732052,
-      "material_cost": 35640,
+      "profit": 14034,
+      "profit_margin": 43.613649077009136,
+      "material_cost": 18144,
       "validated": true,
       "price_stats": {
         "min": 22490,
         "max": 835984,
-        "avg": 65229.458333333336,
+        "avg": 64554.93877551021,
         "trend": "STABLE",
-        "sample_count": 48
+        "sample_count": 49
       }
     },
     {
@@ -41,16 +41,16 @@
           "quantity": 1
         }
       ],
-      "profit": -1446,
-      "profit_margin": -2.951984321411073,
-      "material_cost": 50430,
+      "profit": 17442,
+      "profit_margin": 35.60754532092112,
+      "material_cost": 31542,
       "validated": true,
       "price_stats": {
         "min": 46948,
         "max": 48984,
-        "avg": 48067.8,
+        "avg": 48111.42857142857,
         "trend": "STABLE",
-        "sample_count": 20
+        "sample_count": 21
       }
     },
     {
@@ -63,17 +63,21 @@
           "quantity": 1
         }
       ],
+      "profit": 51276,
+      "profit_margin": 65.7511059819196,
+      "material_cost": 26709,
+      "validated": true,
       "price_stats": {
         "min": 21231,
         "max": 77985,
-        "avg": 26325.0,
+        "avg": 27722.85714285714,
         "trend": "UP",
-        "sample_count": 33
+        "sample_count": 35
       }
     },
     {
       "name": "Mosin Bolt Action Rifle Suppressor",
-      "current_price": 48804,
+      "current_price": 44100,
       "trader": 4,
       "materials_needed": [
         {
@@ -88,9 +92,9 @@
       "price_stats": {
         "min": 23,
         "max": 48804,
-        "avg": 45071.35,
-        "trend": "UP",
-        "sample_count": 20
+        "avg": 45025.09523809524,
+        "trend": "DOWN",
+        "sample_count": 21
       }
     },
     {
@@ -110,14 +114,14 @@
       "price_stats": {
         "min": 16900,
         "max": 17160,
-        "avg": 17146.315789473683,
+        "avg": 17147.0,
         "trend": "STABLE",
-        "sample_count": 19
+        "sample_count": 20
       }
     },
     {
       "name": "Vector 45 50 Round Drum Magazine",
-      "current_price": 21780,
+      "current_price": 22880,
       "trader": 1,
       "materials_needed": [
         {
@@ -125,21 +129,21 @@
           "quantity": 1
         }
       ],
-      "profit": 6648,
-      "profit_margin": 30.52341597796143,
-      "material_cost": 15132,
+      "profit": 4062,
+      "profit_margin": 17.753496503496503,
+      "material_cost": 18818,
       "validated": true,
       "price_stats": {
         "min": 20460,
         "max": 95280,
-        "avg": 29643.157894736843,
-        "trend": "DOWN",
-        "sample_count": 38
+        "avg": 29469.74358974359,
+        "trend": "UP",
+        "sample_count": 39
       }
     },
     {
       "name": "FA Precision Flash Suppressor",
-      "current_price": 18618,
+      "current_price": 18096,
       "trader": 6,
       "materials_needed": [
         {
@@ -150,9 +154,9 @@
       "price_stats": {
         "min": 17226,
         "max": 19914,
-        "avg": 18475.57894736842,
+        "avg": 18456.6,
         "trend": "DOWN",
-        "sample_count": 19
+        "sample_count": 20
       }
     },
     {
@@ -172,14 +176,14 @@
       "price_stats": {
         "min": 13818,
         "max": 15141,
-        "avg": 14731.578947368422,
+        "avg": 14752.05,
         "trend": "STABLE",
-        "sample_count": 19
+        "sample_count": 20
       }
     },
     {
       "name": "Red Gunpowder",
-      "current_price": 14880,
+      "current_price": 18240,
       "trader": 2,
       "materials_needed": [
         {
@@ -188,16 +192,16 @@
         }
       ],
       "price_stats": {
-        "min": 5916,
+        "min": 5742,
         "max": 19200,
-        "avg": 16353.592592592593,
+        "avg": 16052.724137931034,
         "trend": "UP",
-        "sample_count": 27
+        "sample_count": 29
       }
     },
     {
       "name": "Dedicated MP9 Suppressor",
-      "current_price": 19650,
+      "current_price": 19257,
       "trader": 4,
       "materials_needed": [
         {
@@ -209,21 +213,21 @@
           "quantity": 1
         }
       ],
-      "profit": -1448,
-      "profit_margin": -7.368956743002545,
+      "profit": -1841,
+      "profit_margin": -9.560159941839332,
       "material_cost": 21098,
       "validated": true,
       "price_stats": {
         "min": 12878,
         "max": 22401,
-        "avg": 19126.590909090908,
-        "trend": "UP",
-        "sample_count": 22
+        "avg": 19132.260869565216,
+        "trend": "DOWN",
+        "sample_count": 23
       }
     },
     {
       "name": "Rush Tactical Backpack",
-      "current_price": 61425,
+      "current_price": 56550,
       "trader": 3,
       "materials_needed": [
         {
@@ -238,14 +242,14 @@
       "price_stats": {
         "min": 50700,
         "max": 62400,
-        "avg": 57525.0,
-        "trend": "STABLE",
-        "sample_count": 19
+        "avg": 57476.25,
+        "trend": "DOWN",
+        "sample_count": 20
       }
     },
     {
       "name": ".45 Caliber Universal Suppressor",
-      "current_price": 23940,
+      "current_price": 21735,
       "trader": 1,
       "materials_needed": [
         {
@@ -253,12 +257,16 @@
           "quantity": 1
         }
       ],
+      "profit": 10563,
+      "profit_margin": 48.59903381642512,
+      "material_cost": 11172,
+      "validated": true,
       "price_stats": {
         "min": 20672,
         "max": 23940,
-        "avg": 21807.057142857142,
-        "trend": "STABLE",
-        "sample_count": 35
+        "avg": 21805.055555555555,
+        "trend": "DOWN",
+        "sample_count": 36
       }
     },
     {
@@ -271,21 +279,21 @@
           "quantity": 1
         }
       ],
-      "profit": 3705,
-      "profit_margin": 19.494869771112867,
-      "material_cost": 15300,
+      "profit": 285,
+      "profit_margin": 1.499605367008682,
+      "material_cost": 18720,
       "validated": true,
       "price_stats": {
         "min": 16833,
         "max": 43560,
-        "avg": 20980.409090909092,
+        "avg": 20894.521739130436,
         "trend": "STABLE",
-        "sample_count": 22
+        "sample_count": 23
       }
     },
     {
       "name": "SCAR-L 18\" Barrel",
-      "current_price": 24075,
+      "current_price": 23175,
       "trader": 5,
       "materials_needed": [
         {
@@ -296,9 +304,9 @@
       "price_stats": {
         "min": 22950,
         "max": 29925,
-        "avg": 23850.0,
-        "trend": "UP",
-        "sample_count": 25
+        "avg": 23824.03846153846,
+        "trend": "DOWN",
+        "sample_count": 26
       }
     },
     {
@@ -316,7 +324,7 @@
         "max": 42104,
         "avg": 42104.0,
         "trend": "STABLE",
-        "sample_count": 26
+        "sample_count": 27
       }
     },
     {
@@ -336,14 +344,14 @@
       "price_stats": {
         "min": 19700,
         "max": 25216,
-        "avg": 24049.76,
+        "avg": 23882.46153846154,
         "trend": "STABLE",
-        "sample_count": 25
+        "sample_count": 26
       }
     },
     {
       "name": "SH-3 Gas Mask",
-      "current_price": 21240,
+      "current_price": 22320,
       "trader": 6,
       "materials_needed": [
         {
@@ -354,9 +362,9 @@
       "price_stats": {
         "min": 18900,
         "max": 23400,
-        "avg": 21115.384615384617,
-        "trend": "STABLE",
-        "sample_count": 26
+        "avg": 21160.0,
+        "trend": "UP",
+        "sample_count": 27
       }
     },
     {
@@ -376,9 +384,9 @@
       "price_stats": {
         "min": 811,
         "max": 45760,
-        "avg": 28094.70588235294,
+        "avg": 28475.51724137931,
         "trend": "UP",
-        "sample_count": 85
+        "sample_count": 87
       }
     },
     {
@@ -391,16 +399,16 @@
           "quantity": 1
         }
       ],
-      "profit": -4422,
-      "profit_margin": -14.16490486257928,
-      "material_cost": 35640,
+      "profit": 13074,
+      "profit_margin": 41.879684797232365,
+      "material_cost": 18144,
       "validated": true,
       "price_stats": {
         "min": 5742,
         "max": 31218,
-        "avg": 16473.231884057972,
-        "trend": "UP",
-        "sample_count": 69
+        "avg": 16683.871428571427,
+        "trend": "STABLE",
+        "sample_count": 70
       }
     },
     {
@@ -420,14 +428,14 @@
       "price_stats": {
         "min": 10686,
         "max": 14248,
-        "avg": 13039.90909090909,
-        "trend": "UP",
-        "sample_count": 22
+        "avg": 13092.434782608696,
+        "trend": "STABLE",
+        "sample_count": 23
       }
     },
     {
       "name": "MP5 50 Round Magazine",
-      "current_price": 28634,
+      "current_price": 28078,
       "trader": 5,
       "materials_needed": [
         {
@@ -438,9 +446,9 @@
       "price_stats": {
         "min": 23630,
         "max": 28956,
-        "avg": 26993.625,
-        "trend": "UP",
-        "sample_count": 16
+        "avg": 27057.41176470588,
+        "trend": "DOWN",
+        "sample_count": 17
       }
     },
     {
@@ -460,9 +468,9 @@
       "price_stats": {
         "min": 33022,
         "max": 77985,
-        "avg": 53216.06451612903,
+        "avg": 52585.0,
         "trend": "STABLE",
-        "sample_count": 31
+        "sample_count": 32
       }
     }
   ],
@@ -474,9 +482,9 @@
       "price_stats": {
         "min": 30384,
         "max": 33338,
-        "avg": 31747.384615384617,
+        "avg": 31861.0,
         "trend": "STABLE",
-        "sample_count": 13
+        "sample_count": 14
       }
     },
     {
@@ -486,21 +494,21 @@
       "price_stats": {
         "min": 31080,
         "max": 34440,
-        "avg": 33600.0,
+        "avg": 33320.0,
         "trend": "STABLE",
-        "sample_count": 8
+        "sample_count": 9
       }
     },
     {
       "name": "Sealing Foam",
-      "current_price": 35520,
+      "current_price": 23680,
       "used_in": [],
       "price_stats": {
         "min": 16640,
         "max": 39040,
-        "avg": 29456.0,
-        "trend": "UP",
-        "sample_count": 20
+        "avg": 29180.95238095238,
+        "trend": "DOWN",
+        "sample_count": 21
       }
     },
     {
@@ -510,9 +518,9 @@
       "price_stats": {
         "min": 5293,
         "max": 9380,
-        "avg": 7417.857142857143,
-        "trend": "UP",
-        "sample_count": 21
+        "avg": 7476.590909090909,
+        "trend": "STABLE",
+        "sample_count": 22
       }
     },
     {
@@ -528,14 +536,14 @@
       "price_stats": {
         "min": 3465,
         "max": 7205,
-        "avg": 5169.807692307692,
-        "trend": "DOWN",
-        "sample_count": 26
+        "avg": 5106.666666666667,
+        "trend": "STABLE",
+        "sample_count": 27
       }
     },
     {
       "name": "Steel Pipe",
-      "current_price": 35640,
+      "current_price": 18144,
       "used_in": [
         {
           "product": "F70 Tactical Helmet",
@@ -556,9 +564,9 @@
       "price_stats": {
         "min": 18144,
         "max": 37584,
-        "avg": 27378.0,
-        "trend": "STABLE",
-        "sample_count": 26
+        "avg": 27036.0,
+        "trend": "DOWN",
+        "sample_count": 27
       }
     },
     {
@@ -570,7 +578,7 @@
         "max": 10222,
         "avg": 10222.0,
         "trend": "STABLE",
-        "sample_count": 26
+        "sample_count": 27
       }
     },
     {
@@ -598,7 +606,7 @@
         "max": 10298,
         "avg": 10298.0,
         "trend": "STABLE",
-        "sample_count": 26
+        "sample_count": 27
       }
     },
     {
@@ -610,7 +618,7 @@
         "max": 20672,
         "avg": 20672.0,
         "trend": "STABLE",
-        "sample_count": 9
+        "sample_count": 10
       }
     },
     {
@@ -626,9 +634,9 @@
       "price_stats": {
         "min": 5580,
         "max": 11880,
-        "avg": 8480.76923076923,
+        "avg": 8566.666666666666,
         "trend": "STABLE",
-        "sample_count": 26
+        "sample_count": 27
       }
     },
     {
@@ -638,9 +646,9 @@
       "price_stats": {
         "min": 11868,
         "max": 22704,
-        "avg": 16555.0,
-        "trend": "UP",
-        "sample_count": 8
+        "avg": 16951.555555555555,
+        "trend": "STABLE",
+        "sample_count": 9
       }
     },
     {
@@ -656,14 +664,14 @@
       "price_stats": {
         "min": 11666,
         "max": 26709,
-        "avg": 17616.53846153846,
-        "trend": "UP",
-        "sample_count": 26
+        "avg": 17953.296296296296,
+        "trend": "STABLE",
+        "sample_count": 27
       }
     },
     {
       "name": "Tweed",
-      "current_price": 14790,
+      "current_price": 13398,
       "used_in": [
         {
           "product": "HLC Lightweight Body Armor",
@@ -674,21 +682,21 @@
       "price_stats": {
         "min": 9570,
         "max": 20880,
-        "avg": 16677.23076923077,
-        "trend": "STABLE",
-        "sample_count": 26
+        "avg": 16555.777777777777,
+        "trend": "DOWN",
+        "sample_count": 27
       }
     },
     {
       "name": "Game Cartridge",
-      "current_price": 15012,
+      "current_price": 11398,
       "used_in": [],
       "price_stats": {
         "min": 11398,
         "max": 19738,
-        "avg": 14456.0,
+        "avg": 14116.222222222223,
         "trend": "DOWN",
-        "sample_count": 8
+        "sample_count": 9
       }
     },
     {
@@ -711,7 +719,7 @@
         "max": 10640,
         "avg": 10640.0,
         "trend": "STABLE",
-        "sample_count": 26
+        "sample_count": 27
       }
     },
     {
@@ -723,12 +731,12 @@
         "max": 21090,
         "avg": 21090.0,
         "trend": "STABLE",
-        "sample_count": 8
+        "sample_count": 9
       }
     },
     {
       "name": "Camping Lantern",
-      "current_price": 15300,
+      "current_price": 18720,
       "used_in": [
         {
           "product": "Rush Tactical Backpack",
@@ -744,9 +752,9 @@
       "price_stats": {
         "min": 8280,
         "max": 23580,
-        "avg": 14282.307692307691,
-        "trend": "DOWN",
-        "sample_count": 26
+        "avg": 14446.666666666666,
+        "trend": "UP",
+        "sample_count": 27
       }
     },
     {
@@ -764,19 +772,19 @@
         "max": 11172,
         "avg": 11172.0,
         "trend": "STABLE",
-        "sample_count": 26
+        "sample_count": 27
       }
     },
     {
       "name": "Desk Calendar",
-      "current_price": 2070,
+      "current_price": 1890,
       "used_in": [],
       "price_stats": {
-        "min": 2070,
+        "min": 1890,
         "max": 2760,
-        "avg": 2287.5,
-        "trend": "STABLE",
-        "sample_count": 8
+        "avg": 2243.3333333333335,
+        "trend": "DOWN",
+        "sample_count": 9
       }
     },
     {
@@ -786,9 +794,9 @@
       "price_stats": {
         "min": 1026,
         "max": 2014,
-        "avg": 1370.7142857142858,
+        "avg": 1374.909090909091,
         "trend": "STABLE",
-        "sample_count": 21
+        "sample_count": 22
       }
     },
     {
@@ -800,7 +808,7 @@
         "max": 21280,
         "avg": 21280.0,
         "trend": "STABLE",
-        "sample_count": 11
+        "sample_count": 12
       }
     },
     {
@@ -816,26 +824,26 @@
       "price_stats": {
         "min": 11092,
         "max": 21996,
-        "avg": 14873.692307692309,
-        "trend": "UP",
-        "sample_count": 26
+        "avg": 15137.481481481482,
+        "trend": "STABLE",
+        "sample_count": 27
       }
     },
     {
       "name": "Military Canteen",
-      "current_price": 6594,
+      "current_price": 8316,
       "used_in": [],
       "price_stats": {
         "min": 6594,
         "max": 10593,
-        "avg": 8830.875,
-        "trend": "DOWN",
-        "sample_count": 8
+        "avg": 8773.666666666666,
+        "trend": "UP",
+        "sample_count": 9
       }
     },
     {
       "name": "DVD",
-      "current_price": 15132,
+      "current_price": 18818,
       "used_in": [
         {
           "product": "Vector 45 50 Round Drum Magazine",
@@ -846,9 +854,9 @@
       "price_stats": {
         "min": 9506,
         "max": 24250,
-        "avg": 14564.923076923076,
-        "trend": "DOWN",
-        "sample_count": 26
+        "avg": 14722.444444444445,
+        "trend": "UP",
+        "sample_count": 27
       }
     },
     {
@@ -866,11 +874,95 @@
         "max": 12084,
         "avg": 12084.0,
         "trend": "STABLE",
-        "sample_count": 26
+        "sample_count": 27
       }
     }
   ],
   "top_profits": [
+    {
+      "item": "BH2 Chest Rig",
+      "selling_price": 77985,
+      "material_cost": 26709,
+      "profit": 51276,
+      "profit_margin": 65.7511059819196,
+      "trader": 6,
+      "materials": [
+        {
+          "item": "Pipe Cleaning Kit",
+          "quantity": 1
+        }
+      ],
+      "timestamp": "2025-08-06 06:34:16",
+      "validated": true
+    },
+    {
+      "item": "HLC Lightweight Body Armor",
+      "selling_price": 48984,
+      "material_cost": 31542,
+      "profit": 17442,
+      "profit_margin": 35.60754532092112,
+      "trader": 6,
+      "materials": [
+        {
+          "item": "Steel Pipe",
+          "quantity": 1
+        },
+        {
+          "item": "Tweed",
+          "quantity": 1
+        }
+      ],
+      "timestamp": "2025-08-06 06:34:16",
+      "validated": true
+    },
+    {
+      "item": "F70 Tactical Helmet",
+      "selling_price": 32178,
+      "material_cost": 18144,
+      "profit": 14034,
+      "profit_margin": 43.613649077009136,
+      "trader": 6,
+      "materials": [
+        {
+          "item": "Steel Pipe",
+          "quantity": 1
+        }
+      ],
+      "timestamp": "2025-08-06 06:34:16",
+      "validated": true
+    },
+    {
+      "item": "G Series Pistol 50 Round Drum",
+      "selling_price": 31218,
+      "material_cost": 18144,
+      "profit": 13074,
+      "profit_margin": 41.879684797232365,
+      "trader": 5,
+      "materials": [
+        {
+          "item": "Steel Pipe",
+          "quantity": 1
+        }
+      ],
+      "timestamp": "2025-08-06 06:34:16",
+      "validated": true
+    },
+    {
+      "item": ".45 Caliber Universal Suppressor",
+      "selling_price": 21735,
+      "material_cost": 11172,
+      "profit": 10563,
+      "profit_margin": 48.59903381642512,
+      "trader": 1,
+      "materials": [
+        {
+          "item": "Pocket Watch",
+          "quantity": 1
+        }
+      ],
+      "timestamp": "2025-08-06 06:34:16",
+      "validated": true
+    },
     {
       "item": "Uzi 50 Round Drum",
       "selling_price": 17160,
@@ -884,15 +976,15 @@
           "quantity": 1
         }
       ],
-      "timestamp": "2025-08-06 06:26:29",
+      "timestamp": "2025-08-06 06:34:16",
       "validated": true
     },
     {
       "item": "Vector 45 50 Round Drum Magazine",
-      "selling_price": 21780,
-      "material_cost": 15132,
-      "profit": 6648,
-      "profit_margin": 30.52341597796143,
+      "selling_price": 22880,
+      "material_cost": 18818,
+      "profit": 4062,
+      "profit_margin": 17.753496503496503,
       "trader": 1,
       "materials": [
         {
@@ -900,7 +992,7 @@
           "quantity": 1
         }
       ],
-      "timestamp": "2025-08-06 06:26:29",
+      "timestamp": "2025-08-06 06:34:16",
       "validated": true
     },
     {
@@ -916,23 +1008,7 @@
           "quantity": 1
         }
       ],
-      "timestamp": "2025-08-06 06:26:29",
-      "validated": true
-    },
-    {
-      "item": "Universal AR 40 Round Polymer Magazine",
-      "selling_price": 19005,
-      "material_cost": 15300,
-      "profit": 3705,
-      "profit_margin": 19.494869771112867,
-      "trader": 5,
-      "materials": [
-        {
-          "item": "Camping Lantern",
-          "quantity": 1
-        }
-      ],
-      "timestamp": "2025-08-06 06:26:29",
+      "timestamp": "2025-08-06 06:34:16",
       "validated": true
     },
     {
@@ -948,313 +1024,283 @@
           "quantity": 3
         }
       ],
-      "timestamp": "2025-08-06 06:26:29",
+      "timestamp": "2025-08-06 06:34:16",
       "validated": true
     },
     {
-      "item": "HLC Lightweight Body Armor",
-      "selling_price": 48984,
-      "material_cost": 50430,
-      "profit": -1446,
-      "profit_margin": -2.951984321411073,
-      "trader": 6,
-      "materials": [
-        {
-          "item": "Steel Pipe",
-          "quantity": 1
-        },
-        {
-          "item": "Tweed",
-          "quantity": 1
-        }
-      ],
-      "timestamp": "2025-08-06 06:26:29",
-      "validated": true
-    },
-    {
-      "item": "Dedicated MP9 Suppressor",
-      "selling_price": 19650,
-      "material_cost": 21098,
-      "profit": -1448,
-      "profit_margin": -7.368956743002545,
-      "trader": 4,
-      "materials": [
-        {
-          "item": "Chip Processor",
-          "quantity": 1
-        },
-        {
-          "item": "Pipe Wrench",
-          "quantity": 1
-        }
-      ],
-      "timestamp": "2025-08-06 06:26:29",
-      "validated": true
-    },
-    {
-      "item": "M24 Foldable Stock",
-      "selling_price": 19700,
-      "material_cost": 21996,
-      "profit": -2296,
-      "profit_margin": -11.654822335025381,
-      "trader": 6,
-      "materials": [
-        {
-          "item": "Weapon Parts",
-          "quantity": 1
-        }
-      ],
-      "timestamp": "2025-08-06 06:26:29",
-      "validated": true
-    },
-    {
-      "item": "F70 Tactical Helmet",
-      "selling_price": 32178,
-      "material_cost": 35640,
-      "profit": -3462,
-      "profit_margin": -10.758903598732052,
-      "trader": 6,
-      "materials": [
-        {
-          "item": "Steel Pipe",
-          "quantity": 1
-        }
-      ],
-      "timestamp": "2025-08-06 06:26:29",
-      "validated": true
-    },
-    {
-      "item": "G Series Pistol 50 Round Drum",
-      "selling_price": 31218,
-      "material_cost": 35640,
-      "profit": -4422,
-      "profit_margin": -14.16490486257928,
+      "item": "Universal AR 40 Round Polymer Magazine",
+      "selling_price": 19005,
+      "material_cost": 18720,
+      "profit": 285,
+      "profit_margin": 1.499605367008682,
       "trader": 5,
       "materials": [
         {
-          "item": "Steel Pipe",
+          "item": "Camping Lantern",
           "quantity": 1
         }
       ],
-      "timestamp": "2025-08-06 06:26:29",
+      "timestamp": "2025-08-06 06:34:16",
       "validated": true
     }
   ],
   "leaderboard": {
     "24h": [
       {
+        "item": "BH2 Chest Rig",
+        "profit": 51276,
+        "timestamp": "2025-08-06 06:34:16",
+        "selling_price": 77985,
+        "material_cost": 26709
+      },
+      {
+        "item": "HLC Lightweight Body Armor",
+        "profit": 17442,
+        "timestamp": "2025-08-06 06:34:16",
+        "selling_price": 48984,
+        "material_cost": 31542
+      },
+      {
+        "item": "F70 Tactical Helmet",
+        "profit": 14034,
+        "timestamp": "2025-08-06 06:34:16",
+        "selling_price": 32178,
+        "material_cost": 18144
+      },
+      {
+        "item": "G Series Pistol 50 Round Drum",
+        "profit": 13074,
+        "timestamp": "2025-08-06 06:34:16",
+        "selling_price": 31218,
+        "material_cost": 18144
+      },
+      {
+        "item": ".45 Caliber Universal Suppressor",
+        "profit": 10563,
+        "timestamp": "2025-08-06 06:34:16",
+        "selling_price": 21735,
+        "material_cost": 11172
+      },
+      {
         "item": "Uzi 50 Round Drum",
         "profit": 6862,
-        "timestamp": "2025-08-06 06:26:29",
+        "timestamp": "2025-08-06 06:34:16",
         "selling_price": 17160,
         "material_cost": 10298
       },
       {
         "item": "Vector 45 50 Round Drum Magazine",
-        "profit": 6648,
-        "timestamp": "2025-08-06 06:26:29",
-        "selling_price": 21780,
-        "material_cost": 15132
+        "profit": 4062,
+        "timestamp": "2025-08-06 06:34:16",
+        "selling_price": 22880,
+        "material_cost": 18818
       },
       {
         "item": "9x19 Suppressor",
         "profit": 3950,
-        "timestamp": "2025-08-06 06:26:29",
+        "timestamp": "2025-08-06 06:34:16",
         "selling_price": 14248,
         "material_cost": 10298
       },
       {
-        "item": "Universal AR 40 Round Polymer Magazine",
-        "profit": 3705,
-        "timestamp": "2025-08-06 06:26:29",
-        "selling_price": 19005,
-        "material_cost": 15300
-      },
-      {
         "item": "Stormtrooper Type 2 Chest Rig",
         "profit": 1102,
-        "timestamp": "2025-08-06 06:26:29",
+        "timestamp": "2025-08-06 06:34:16",
         "selling_price": 33022,
         "material_cost": 31920
       },
       {
-        "item": "HLC Lightweight Body Armor",
-        "profit": -1446,
-        "timestamp": "2025-08-06 06:26:29",
-        "selling_price": 48984,
-        "material_cost": 50430
+        "item": "Universal AR 40 Round Polymer Magazine",
+        "profit": 285,
+        "timestamp": "2025-08-06 06:34:16",
+        "selling_price": 19005,
+        "material_cost": 18720
       },
       {
         "item": "Dedicated MP9 Suppressor",
-        "profit": -1448,
-        "timestamp": "2025-08-06 06:26:29",
-        "selling_price": 19650,
+        "profit": -1841,
+        "timestamp": "2025-08-06 06:34:16",
+        "selling_price": 19257,
         "material_cost": 21098
       },
       {
         "item": "M24 Foldable Stock",
         "profit": -2296,
-        "timestamp": "2025-08-06 06:26:29",
+        "timestamp": "2025-08-06 06:34:16",
         "selling_price": 19700,
         "material_cost": 21996
-      },
-      {
-        "item": "F70 Tactical Helmet",
-        "profit": -3462,
-        "timestamp": "2025-08-06 06:26:29",
-        "selling_price": 32178,
-        "material_cost": 35640
-      },
-      {
-        "item": "G Series Pistol 50 Round Drum",
-        "profit": -4422,
-        "timestamp": "2025-08-06 06:26:29",
-        "selling_price": 31218,
-        "material_cost": 35640
       }
     ],
     "3d": [
       {
+        "item": "BH2 Chest Rig",
+        "profit": 51276,
+        "timestamp": "2025-08-06 06:34:16",
+        "selling_price": 77985,
+        "material_cost": 26709
+      },
+      {
+        "item": "HLC Lightweight Body Armor",
+        "profit": 17442,
+        "timestamp": "2025-08-06 06:34:16",
+        "selling_price": 48984,
+        "material_cost": 31542
+      },
+      {
+        "item": "F70 Tactical Helmet",
+        "profit": 14034,
+        "timestamp": "2025-08-06 06:34:16",
+        "selling_price": 32178,
+        "material_cost": 18144
+      },
+      {
+        "item": "G Series Pistol 50 Round Drum",
+        "profit": 13074,
+        "timestamp": "2025-08-06 06:34:16",
+        "selling_price": 31218,
+        "material_cost": 18144
+      },
+      {
+        "item": ".45 Caliber Universal Suppressor",
+        "profit": 10563,
+        "timestamp": "2025-08-06 06:34:16",
+        "selling_price": 21735,
+        "material_cost": 11172
+      },
+      {
         "item": "Uzi 50 Round Drum",
         "profit": 6862,
-        "timestamp": "2025-08-06 06:26:29",
+        "timestamp": "2025-08-06 06:34:16",
         "selling_price": 17160,
         "material_cost": 10298
       },
       {
         "item": "Vector 45 50 Round Drum Magazine",
-        "profit": 6648,
-        "timestamp": "2025-08-06 06:26:29",
-        "selling_price": 21780,
-        "material_cost": 15132
+        "profit": 4062,
+        "timestamp": "2025-08-06 06:34:16",
+        "selling_price": 22880,
+        "material_cost": 18818
       },
       {
         "item": "9x19 Suppressor",
         "profit": 3950,
-        "timestamp": "2025-08-06 06:26:29",
+        "timestamp": "2025-08-06 06:34:16",
         "selling_price": 14248,
         "material_cost": 10298
       },
       {
-        "item": "Universal AR 40 Round Polymer Magazine",
-        "profit": 3705,
-        "timestamp": "2025-08-06 06:26:29",
-        "selling_price": 19005,
-        "material_cost": 15300
-      },
-      {
         "item": "Stormtrooper Type 2 Chest Rig",
         "profit": 1102,
-        "timestamp": "2025-08-06 06:26:29",
+        "timestamp": "2025-08-06 06:34:16",
         "selling_price": 33022,
         "material_cost": 31920
       },
       {
-        "item": "HLC Lightweight Body Armor",
-        "profit": -1446,
-        "timestamp": "2025-08-06 06:26:29",
-        "selling_price": 48984,
-        "material_cost": 50430
+        "item": "Universal AR 40 Round Polymer Magazine",
+        "profit": 285,
+        "timestamp": "2025-08-06 06:34:16",
+        "selling_price": 19005,
+        "material_cost": 18720
       },
       {
         "item": "Dedicated MP9 Suppressor",
-        "profit": -1448,
-        "timestamp": "2025-08-06 06:26:29",
-        "selling_price": 19650,
+        "profit": -1841,
+        "timestamp": "2025-08-06 06:34:16",
+        "selling_price": 19257,
         "material_cost": 21098
       },
       {
         "item": "M24 Foldable Stock",
         "profit": -2296,
-        "timestamp": "2025-08-06 06:26:29",
+        "timestamp": "2025-08-06 06:34:16",
         "selling_price": 19700,
         "material_cost": 21996
-      },
-      {
-        "item": "F70 Tactical Helmet",
-        "profit": -3462,
-        "timestamp": "2025-08-06 06:26:29",
-        "selling_price": 32178,
-        "material_cost": 35640
-      },
-      {
-        "item": "G Series Pistol 50 Round Drum",
-        "profit": -4422,
-        "timestamp": "2025-08-06 06:26:29",
-        "selling_price": 31218,
-        "material_cost": 35640
       }
     ],
     "1w": [
       {
+        "item": "BH2 Chest Rig",
+        "profit": 51276,
+        "timestamp": "2025-08-06 06:34:16",
+        "selling_price": 77985,
+        "material_cost": 26709
+      },
+      {
+        "item": "HLC Lightweight Body Armor",
+        "profit": 17442,
+        "timestamp": "2025-08-06 06:34:16",
+        "selling_price": 48984,
+        "material_cost": 31542
+      },
+      {
+        "item": "F70 Tactical Helmet",
+        "profit": 14034,
+        "timestamp": "2025-08-06 06:34:16",
+        "selling_price": 32178,
+        "material_cost": 18144
+      },
+      {
+        "item": "G Series Pistol 50 Round Drum",
+        "profit": 13074,
+        "timestamp": "2025-08-06 06:34:16",
+        "selling_price": 31218,
+        "material_cost": 18144
+      },
+      {
+        "item": ".45 Caliber Universal Suppressor",
+        "profit": 10563,
+        "timestamp": "2025-08-06 06:34:16",
+        "selling_price": 21735,
+        "material_cost": 11172
+      },
+      {
         "item": "Uzi 50 Round Drum",
         "profit": 6862,
-        "timestamp": "2025-08-06 06:26:29",
+        "timestamp": "2025-08-06 06:34:16",
         "selling_price": 17160,
         "material_cost": 10298
       },
       {
         "item": "Vector 45 50 Round Drum Magazine",
-        "profit": 6648,
-        "timestamp": "2025-08-06 06:26:29",
-        "selling_price": 21780,
-        "material_cost": 15132
+        "profit": 4062,
+        "timestamp": "2025-08-06 06:34:16",
+        "selling_price": 22880,
+        "material_cost": 18818
       },
       {
         "item": "9x19 Suppressor",
         "profit": 3950,
-        "timestamp": "2025-08-06 06:26:29",
+        "timestamp": "2025-08-06 06:34:16",
         "selling_price": 14248,
         "material_cost": 10298
       },
       {
-        "item": "Universal AR 40 Round Polymer Magazine",
-        "profit": 3705,
-        "timestamp": "2025-08-06 06:26:29",
-        "selling_price": 19005,
-        "material_cost": 15300
-      },
-      {
         "item": "Stormtrooper Type 2 Chest Rig",
         "profit": 1102,
-        "timestamp": "2025-08-06 06:26:29",
+        "timestamp": "2025-08-06 06:34:16",
         "selling_price": 33022,
         "material_cost": 31920
       },
       {
-        "item": "HLC Lightweight Body Armor",
-        "profit": -1446,
-        "timestamp": "2025-08-06 06:26:29",
-        "selling_price": 48984,
-        "material_cost": 50430
+        "item": "Universal AR 40 Round Polymer Magazine",
+        "profit": 285,
+        "timestamp": "2025-08-06 06:34:16",
+        "selling_price": 19005,
+        "material_cost": 18720
       },
       {
         "item": "Dedicated MP9 Suppressor",
-        "profit": -1448,
-        "timestamp": "2025-08-06 06:26:29",
-        "selling_price": 19650,
+        "profit": -1841,
+        "timestamp": "2025-08-06 06:34:16",
+        "selling_price": 19257,
         "material_cost": 21098
       },
       {
         "item": "M24 Foldable Stock",
         "profit": -2296,
-        "timestamp": "2025-08-06 06:26:29",
+        "timestamp": "2025-08-06 06:34:16",
         "selling_price": 19700,
         "material_cost": 21996
-      },
-      {
-        "item": "F70 Tactical Helmet",
-        "profit": -3462,
-        "timestamp": "2025-08-06 06:26:29",
-        "selling_price": 32178,
-        "material_cost": 35640
-      },
-      {
-        "item": "G Series Pistol 50 Round Drum",
-        "profit": -4422,
-        "timestamp": "2025-08-06 06:26:29",
-        "selling_price": 31218,
-        "material_cost": 35640
       }
     ],
     "all": [
@@ -1264,6 +1310,13 @@
         "timestamp": "2025-08-06 05:57:05",
         "selling_price": 95280,
         "material_cost": 9506
+      },
+      {
+        "item": "BH2 Chest Rig",
+        "profit": 51276,
+        "timestamp": "2025-08-06 06:34:16",
+        "selling_price": 77985,
+        "material_cost": 26709
       },
       {
         "item": "Stormtrooper Type 2 Chest Rig",
@@ -1278,6 +1331,13 @@
         "timestamp": "2025-08-06 06:00:48",
         "selling_price": 30730,
         "material_cost": 10080
+      },
+      {
+        "item": "HLC Lightweight Body Armor",
+        "profit": 17442,
+        "timestamp": "2025-08-06 06:34:16",
+        "selling_price": 48984,
+        "material_cost": 31542
       },
       {
         "item": "Mosin Bolt Action Rifle Suppressor",
@@ -1308,24 +1368,17 @@
         "material_cost": 11092
       },
       {
-        "item": "HLC Lightweight Body Armor",
-        "profit": 12744,
-        "timestamp": "2025-08-06 06:04:34",
-        "selling_price": 48984,
-        "material_cost": 36240
-      },
-      {
-        "item": "BH2 Chest Rig",
-        "profit": 12261,
-        "timestamp": "2025-08-06 05:35:58",
-        "selling_price": 23927,
-        "material_cost": 11666
-      },
-      {
         "item": "F70 Tactical Helmet",
-        "profit": 11958,
-        "timestamp": "2025-08-06 05:57:05",
-        "selling_price": 30102,
+        "profit": 14034,
+        "timestamp": "2025-08-06 06:34:16",
+        "selling_price": 32178,
+        "material_cost": 18144
+      },
+      {
+        "item": "G Series Pistol 50 Round Drum",
+        "profit": 13074,
+        "timestamp": "2025-08-06 06:34:16",
+        "selling_price": 31218,
         "material_cost": 18144
       },
       {
@@ -1378,13 +1431,6 @@
         "material_cost": 15878
       },
       {
-        "item": "G Series Pistol 50 Round Drum",
-        "profit": 3136,
-        "timestamp": "2025-08-06 05:57:05",
-        "selling_price": 21280,
-        "material_cost": 18144
-      },
-      {
         "item": "Red Gunpowder",
         "profit": -2576,
         "timestamp": "2025-08-06 05:08:08",
@@ -1394,199 +1440,6 @@
     ]
   },
   "scan_history": [
-    {
-      "timestamp": "2025-08-06 06:05:06",
-      "profits": [
-        {
-          "item": "Stormtrooper Type 2 Chest Rig",
-          "selling_price": 77985,
-          "material_cost": 31920,
-          "profit": 46065,
-          "profit_margin": 59.06905174071937,
-          "trader": 6,
-          "materials": [
-            {
-              "item": "Perfume",
-              "quantity": 3
-            }
-          ],
-          "timestamp": "2025-08-06 06:05:06"
-        },
-        {
-          "item": "Vector 45 50 Round Drum Magazine",
-          "selling_price": 31080,
-          "material_cost": 16102,
-          "profit": 14978,
-          "profit_margin": 48.191763191763194,
-          "trader": 1,
-          "materials": [
-            {
-              "item": "DVD",
-              "quantity": 1
-            }
-          ],
-          "timestamp": "2025-08-06 06:05:06"
-        },
-        {
-          "item": ".45 Caliber Universal Suppressor",
-          "selling_price": 20672,
-          "material_cost": 11172,
-          "profit": 9500,
-          "profit_margin": 45.955882352941174,
-          "trader": 1,
-          "materials": [
-            {
-              "item": "Pocket Watch",
-              "quantity": 1
-            }
-          ],
-          "timestamp": "2025-08-06 06:05:06"
-        },
-        {
-          "item": "M24 Foldable Stock",
-          "selling_price": 24822,
-          "material_cost": 17860,
-          "profit": 6962,
-          "profit_margin": 28.047699621303686,
-          "trader": 6,
-          "materials": [
-            {
-              "item": "Weapon Parts",
-              "quantity": 1
-            }
-          ],
-          "timestamp": "2025-08-06 06:05:06"
-        },
-        {
-          "item": "Uzi 50 Round Drum",
-          "selling_price": 17160,
-          "material_cost": 10298,
-          "profit": 6862,
-          "profit_margin": 39.988344988344984,
-          "trader": 1,
-          "materials": [
-            {
-              "item": "Chip Processor",
-              "quantity": 1
-            }
-          ],
-          "timestamp": "2025-08-06 06:05:06"
-        },
-        {
-          "item": "9x19 Suppressor",
-          "selling_price": 14248,
-          "material_cost": 10298,
-          "profit": 3950,
-          "profit_margin": 27.723189219539584,
-          "trader": 5,
-          "materials": [
-            {
-              "item": "Chip Processor",
-              "quantity": 1
-            }
-          ],
-          "timestamp": "2025-08-06 06:05:06"
-        },
-        {
-          "item": "BH2 Chest Rig",
-          "selling_price": 23590,
-          "material_cost": 20569,
-          "profit": 3021,
-          "profit_margin": 12.80627384484951,
-          "trader": 6,
-          "materials": [
-            {
-              "item": "Pipe Cleaning Kit",
-              "quantity": 1
-            }
-          ],
-          "timestamp": "2025-08-06 06:05:06"
-        },
-        {
-          "item": "HLC Lightweight Body Armor",
-          "selling_price": 48984,
-          "material_cost": 46608,
-          "profit": 2376,
-          "profit_margin": 4.850563449289564,
-          "trader": 6,
-          "materials": [
-            {
-              "item": "Steel Pipe",
-              "quantity": 1
-            },
-            {
-              "item": "Tweed",
-              "quantity": 1
-            }
-          ],
-          "timestamp": "2025-08-06 06:05:06"
-        },
-        {
-          "item": "F70 Tactical Helmet",
-          "selling_price": 30102,
-          "material_cost": 28512,
-          "profit": 1590,
-          "profit_margin": 5.282041060394658,
-          "trader": 6,
-          "materials": [
-            {
-              "item": "Steel Pipe",
-              "quantity": 1
-            }
-          ],
-          "timestamp": "2025-08-06 06:05:06"
-        },
-        {
-          "item": "Dedicated MP9 Suppressor",
-          "selling_price": 20043,
-          "material_cost": 18488,
-          "profit": 1555,
-          "profit_margin": 7.758319612832411,
-          "trader": 4,
-          "materials": [
-            {
-              "item": "Chip Processor",
-              "quantity": 1
-            },
-            {
-              "item": "Pipe Wrench",
-              "quantity": 1
-            }
-          ],
-          "timestamp": "2025-08-06 06:05:06"
-        },
-        {
-          "item": "Universal AR 40 Round Polymer Magazine",
-          "selling_price": 17919,
-          "material_cost": 17820,
-          "profit": 99,
-          "profit_margin": 0.5524861878453038,
-          "trader": 5,
-          "materials": [
-            {
-              "item": "Camping Lantern",
-              "quantity": 1
-            }
-          ],
-          "timestamp": "2025-08-06 06:05:06"
-        },
-        {
-          "item": "G Series Pistol 50 Round Drum",
-          "selling_price": 21280,
-          "material_cost": 28512,
-          "profit": -7232,
-          "profit_margin": -33.98496240601504,
-          "trader": 5,
-          "materials": [
-            {
-              "item": "Steel Pipe",
-              "quantity": 1
-            }
-          ],
-          "timestamp": "2025-08-06 06:05:06"
-        }
-      ]
-    },
     {
       "timestamp": "2025-08-06 06:05:39",
       "profits": [
@@ -3280,6 +3133,211 @@
             }
           ],
           "timestamp": "2025-08-06 06:26:29",
+          "validated": true
+        }
+      ]
+    },
+    {
+      "timestamp": "2025-08-06 06:34:16",
+      "profits": [
+        {
+          "item": "BH2 Chest Rig",
+          "selling_price": 77985,
+          "material_cost": 26709,
+          "profit": 51276,
+          "profit_margin": 65.7511059819196,
+          "trader": 6,
+          "materials": [
+            {
+              "item": "Pipe Cleaning Kit",
+              "quantity": 1
+            }
+          ],
+          "timestamp": "2025-08-06 06:34:16",
+          "validated": true
+        },
+        {
+          "item": "HLC Lightweight Body Armor",
+          "selling_price": 48984,
+          "material_cost": 31542,
+          "profit": 17442,
+          "profit_margin": 35.60754532092112,
+          "trader": 6,
+          "materials": [
+            {
+              "item": "Steel Pipe",
+              "quantity": 1
+            },
+            {
+              "item": "Tweed",
+              "quantity": 1
+            }
+          ],
+          "timestamp": "2025-08-06 06:34:16",
+          "validated": true
+        },
+        {
+          "item": "F70 Tactical Helmet",
+          "selling_price": 32178,
+          "material_cost": 18144,
+          "profit": 14034,
+          "profit_margin": 43.613649077009136,
+          "trader": 6,
+          "materials": [
+            {
+              "item": "Steel Pipe",
+              "quantity": 1
+            }
+          ],
+          "timestamp": "2025-08-06 06:34:16",
+          "validated": true
+        },
+        {
+          "item": "G Series Pistol 50 Round Drum",
+          "selling_price": 31218,
+          "material_cost": 18144,
+          "profit": 13074,
+          "profit_margin": 41.879684797232365,
+          "trader": 5,
+          "materials": [
+            {
+              "item": "Steel Pipe",
+              "quantity": 1
+            }
+          ],
+          "timestamp": "2025-08-06 06:34:16",
+          "validated": true
+        },
+        {
+          "item": ".45 Caliber Universal Suppressor",
+          "selling_price": 21735,
+          "material_cost": 11172,
+          "profit": 10563,
+          "profit_margin": 48.59903381642512,
+          "trader": 1,
+          "materials": [
+            {
+              "item": "Pocket Watch",
+              "quantity": 1
+            }
+          ],
+          "timestamp": "2025-08-06 06:34:16",
+          "validated": true
+        },
+        {
+          "item": "Uzi 50 Round Drum",
+          "selling_price": 17160,
+          "material_cost": 10298,
+          "profit": 6862,
+          "profit_margin": 39.988344988344984,
+          "trader": 1,
+          "materials": [
+            {
+              "item": "Chip Processor",
+              "quantity": 1
+            }
+          ],
+          "timestamp": "2025-08-06 06:34:16",
+          "validated": true
+        },
+        {
+          "item": "Vector 45 50 Round Drum Magazine",
+          "selling_price": 22880,
+          "material_cost": 18818,
+          "profit": 4062,
+          "profit_margin": 17.753496503496503,
+          "trader": 1,
+          "materials": [
+            {
+              "item": "DVD",
+              "quantity": 1
+            }
+          ],
+          "timestamp": "2025-08-06 06:34:16",
+          "validated": true
+        },
+        {
+          "item": "9x19 Suppressor",
+          "selling_price": 14248,
+          "material_cost": 10298,
+          "profit": 3950,
+          "profit_margin": 27.723189219539584,
+          "trader": 5,
+          "materials": [
+            {
+              "item": "Chip Processor",
+              "quantity": 1
+            }
+          ],
+          "timestamp": "2025-08-06 06:34:16",
+          "validated": true
+        },
+        {
+          "item": "Stormtrooper Type 2 Chest Rig",
+          "selling_price": 33022,
+          "material_cost": 31920,
+          "profit": 1102,
+          "profit_margin": 3.33716915995397,
+          "trader": 6,
+          "materials": [
+            {
+              "item": "Perfume",
+              "quantity": 3
+            }
+          ],
+          "timestamp": "2025-08-06 06:34:16",
+          "validated": true
+        },
+        {
+          "item": "Universal AR 40 Round Polymer Magazine",
+          "selling_price": 19005,
+          "material_cost": 18720,
+          "profit": 285,
+          "profit_margin": 1.499605367008682,
+          "trader": 5,
+          "materials": [
+            {
+              "item": "Camping Lantern",
+              "quantity": 1
+            }
+          ],
+          "timestamp": "2025-08-06 06:34:16",
+          "validated": true
+        },
+        {
+          "item": "Dedicated MP9 Suppressor",
+          "selling_price": 19257,
+          "material_cost": 21098,
+          "profit": -1841,
+          "profit_margin": -9.560159941839332,
+          "trader": 4,
+          "materials": [
+            {
+              "item": "Chip Processor",
+              "quantity": 1
+            },
+            {
+              "item": "Pipe Wrench",
+              "quantity": 1
+            }
+          ],
+          "timestamp": "2025-08-06 06:34:16",
+          "validated": true
+        },
+        {
+          "item": "M24 Foldable Stock",
+          "selling_price": 19700,
+          "material_cost": 21996,
+          "profit": -2296,
+          "profit_margin": -11.654822335025381,
+          "trader": 6,
+          "materials": [
+            {
+              "item": "Weapon Parts",
+              "quantity": 1
+            }
+          ],
+          "timestamp": "2025-08-06 06:34:16",
           "validated": true
         }
       ]
